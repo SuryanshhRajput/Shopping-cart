@@ -10,25 +10,8 @@ A polished shopping cart application built with React and Redux Toolkit to demon
 
 ## Live Demo
 
-Live Demo: https://your-vercel-link.vercel.app
+Live Demo: [https://shopping-cart-jade-delta.vercel.app/]
 
-## GitHub Repository
-
-Repository: https://github.com/your-username/redux-toolkit-shopping-cart
-
-## Screenshots
-
-### Home Page
-
-![Home Page](https://via.placeholder.com/1200x700?text=Home+Page)
-
-### Shopping Cart
-
-![Shopping Cart](https://via.placeholder.com/1200x700?text=Shopping+Cart)
-
-### Mobile View
-
-![Mobile View](https://via.placeholder.com/800x1200?text=Mobile+View)
 
 ## Features
 
