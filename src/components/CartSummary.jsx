@@ -19,7 +19,7 @@ const CartSummary = () => {
         </div>
         <div className="flex items-center justify-between border-t border-slate-700 pt-3 text-base font-semibold text-white">
           <span>Total</span>
-          <span>${totalPrice.toFixed(2)}</span>
+          <span>₹{totalPrice.toFixed(2)}</span>
         </div>
       </div>
       <button

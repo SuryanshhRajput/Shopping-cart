@@ -39,7 +39,7 @@ const CartItem = ({ item }) => {
               +
             </button>
           </div>
-          <p className="text-lg font-semibold text-slate-900">${item.price * item.quantity}</p>
+          <p className="text-lg font-semibold text-slate-900">₹{item.price * item.quantity}</p>
         </div>
       </div>
     </li>
